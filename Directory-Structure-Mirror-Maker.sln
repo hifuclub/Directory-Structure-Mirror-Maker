@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory-Structure-Mirror-Maker", "Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker.csproj", "{222B298A-2EED-4985-A18F-73763245291D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222B298A-2EED-4985-A18F-73763245291D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222B298A-2EED-4985-A18F-73763245291D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222B298A-2EED-4985-A18F-73763245291D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222B298A-2EED-4985-A18F-73763245291D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9162320-146B-4091-BC1E-616849E85D46}
+	EndGlobalSection
+EndGlobal

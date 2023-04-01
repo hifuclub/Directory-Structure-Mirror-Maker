@@ -1,0 +1,10 @@
+C:\Users\sym\source\repos\Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker\obj\Debug\Directory-Structure-Mirror-Maker.csproj.AssemblyReference.cache
+C:\Users\sym\source\repos\Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker\obj\Debug\Directory_Structure_Mirror_Maker.Form1.resources
+C:\Users\sym\source\repos\Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker\obj\Debug\Directory_Structure_Mirror_Maker.Properties.Resources.resources
+C:\Users\sym\source\repos\Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker\obj\Debug\Directory-Structure-Mirror-Maker.csproj.GenerateResource.cache
+C:\Users\sym\source\repos\Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker\obj\Debug\Directory-Structure-Mirror-Maker.csproj.CoreCompileInputs.cache
+C:\Users\sym\source\repos\Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker\bin\Debug\Directory-Structure-Mirror-Maker.exe.config
+C:\Users\sym\source\repos\Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker\bin\Debug\Directory-Structure-Mirror-Maker.exe
+C:\Users\sym\source\repos\Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker\bin\Debug\Directory-Structure-Mirror-Maker.pdb
+C:\Users\sym\source\repos\Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker\obj\Debug\Directory-Structure-Mirror-Maker.exe
+C:\Users\sym\source\repos\Directory-Structure-Mirror-Maker\Directory-Structure-Mirror-Maker\obj\Debug\Directory-Structure-Mirror-Maker.pdb
