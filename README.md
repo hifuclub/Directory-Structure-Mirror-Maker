@@ -1,6 +1,6 @@
 # Directory Structure Maker
-为冷备份镜像目录结构/Mirror directory structure for cold backup
 -----------------------------------------------------
+为冷备份镜像目录结构/Mirror directory structure for cold backup
 
 
 为什么开发这个程序/why this program was developed
